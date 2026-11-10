@@ -1,0 +1,10 @@
+OOP10 FINAL LABORATORY EXAM - OOP10FEXLab
+Kiosk and Queue Monitor System
+
+GROUP MEMBERS
+1. <MJ - Full Name>          - Kiosk (Kiosk folder: KioskForm, Cart, MealCard)
+2. <Raf - Full Name>         - Queue Monitor (QueueMonitor folder: QueueMonitorForm, QueueService)
+3. <Member 3 - Full Name>    - QA / Testing (TEST_CASES.md) and names.txt
+
+Section: <Section>
+Instructor: Prof. Raymond

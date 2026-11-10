@@ -1,0 +1,19 @@
+MJ - KIOSK PART (push FIRST)
+
+Your files: OOP10FEXLab\Kiosk\ (KioskForm.cs, Cart.cs, MealCard.cs)
+plus the shared base (Core, Program.cs, LauncherForm.cs, Data\meals.txt, docs).
+
+1. On GitHub: New repository -> name: OOP10FEXLab -> leave README/.gitignore/license UNCHECKED -> Create.
+2. Settings -> Collaborators -> Add people -> add Raf and member 3.
+3. Unzip this. Open a terminal INSIDE the OOP10FEXLab folder (the one with names.txt):
+
+   git config --global user.name "Your Name"
+   git config --global user.email "your-github-email"
+   git init
+   git branch -M main
+   git add .
+   git commit -m "Base project, data layer and Kiosk UI (MJ)"
+   git remote add origin https://github.com/<YOUR-USERNAME>/OOP10FEXLab.git
+   git push -u origin main
+
+4. Send Raf the repo link. It won't build until Raf pushes the QueueMonitor folder - that's expected.

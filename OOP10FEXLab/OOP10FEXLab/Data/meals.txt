@@ -1,0 +1,21 @@
+# PACKAGE MEALS (notepad database)
+# Format: CODE|Name|Category|Price|Inclusions
+# Lines that start with # are ignored. You can add, edit or remove meals here - no code change needed.
+C1|1-pc Crispy Chicken Meal|Chicken|99.00|1-pc chicken, rice, drink
+C2|2-pc Crispy Chicken Meal|Chicken|189.00|2-pc chicken, rice, drink
+C3|1-pc Chicken w/ Spaghetti|Chicken|129.00|1-pc chicken, spaghetti, drink
+C4|1-pc Spicy Chicken w/ Fries|Chicken|119.00|1-pc spicy chicken, regular fries, drink
+S1|Sweet Spaghetti Solo|Spaghetti|65.00|Sweet-style spaghetti
+S2|Spaghetti w/ Burger & Drink|Spaghetti|125.00|Spaghetti, burger, drink
+S3|Spaghetti w/ Cheese Burger & Drink|Spaghetti|139.00|Spaghetti, cheese burger, drink
+S4|Spaghetti Family Pan|Spaghetti|299.00|Good for 3-4
+B1|Classic Burger Meal|Burgers|85.00|Burger, regular fries, drink
+B2|Cheese Burger Meal|Burgers|99.00|Cheese burger, regular fries, drink
+B3|Burger Steak 1-pc Meal|Burgers|89.00|1-pc burger steak, rice, drink
+R1|Chicken Fillet Rice Meal|Rice Meals|105.00|Chicken fillet, rice, gravy, drink
+R2|Fiesta Palabok Meal|Rice Meals|110.00|Palabok, garlic bread, drink
+F1|Family Bucket A|Family Meals|599.00|6-pc chicken, 4 rice, 4 drinks
+F2|Family Bucket B|Family Meals|749.00|6-pc chicken, spaghetti pan, 4 rice, 4 drinks
+D1|Peach Mango Pie|Desserts & Drinks|45.00|1 pie
+D2|Chocolate Sundae|Desserts & Drinks|49.00|Soft serve with chocolate
+D3|Iced Tea (Large)|Desserts & Drinks|45.00|Large iced tea

@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <Nullable>disable</Nullable>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <!-- Code is written in C# 7.3 style so the .cs files also work in a .NET Framework 4.x project -->
+    <LangVersion>7.3</LangVersion>
+    <RootNamespace>OOP10FEXLab</RootNamespace>
+    <AssemblyName>OOP10FEXLab</AssemblyName>
+    <EnableWindowsTargeting>true</EnableWindowsTargeting>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <!-- The "notepad database" is copied next to the .exe on every build -->
+    <None Update="Data\meals.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>
