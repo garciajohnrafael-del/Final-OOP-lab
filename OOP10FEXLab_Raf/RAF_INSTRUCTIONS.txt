@@ -1,0 +1,24 @@
+RAF - QUEUE MONITOR PART (push AFTER MJ)
+
+Your files: QueueMonitor\QueueMonitorForm.cs, QueueMonitor\QueueService.cs
+
+1. Accept MJ's collaborator invite (email or github.com/notifications).
+2. Open a terminal and run:
+
+   git config --global user.name "Your Name"
+   git config --global user.email "your-github-email"
+   git clone https://github.com/<MJ-USERNAME>/OOP10FEXLab.git
+   cd OOP10FEXLab
+
+3. Copy the "QueueMonitor" folder from this zip into:
+      OOP10FEXLab\OOP10FEXLab\      (beside the "Kiosk" folder)
+
+4. Push:
+
+   git add OOP10FEXLab/QueueMonitor
+   git commit -m "Queue Monitor UI and queue service (Raf)"
+   git push
+
+5. Open OOP10FEXLab.sln in Visual Studio -> F5 -> "Open Both (demo)" to test.
+
+If push says "rejected / fetch first": run  git pull  then  git push  again.
